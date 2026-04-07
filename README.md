@@ -1,1 +1,1 @@
-League of Legends API back-end server
+Back-End feito utilizando Express.
