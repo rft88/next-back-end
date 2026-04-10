@@ -1,1 +1,1 @@
-Back-End feito utilizando Express.
+Back-End da conexão com a API do League of Legends feito utilizando Express.
